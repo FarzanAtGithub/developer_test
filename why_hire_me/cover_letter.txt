@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I was interested to see your job posting for a Software Developer role, and would like to learn more about this opportunity. 
+
+I hold Master’s degrees in both Information Technology (GPA: 4.0) and Electrical Engineering fields and recently received the Outstanding Graduate Student award from School of IT at Illinois State University (2017). I am completely familiar with a variety of technologies including, but not limited to, Java, C#, SQL, JSF, JavaScript, ASP.NET, HTML, CSS, Ajax, JDBC, Web Services, Application Development, PHP, and RESTful APIs.
+
+In the past two years, I have been actively involved in design and implementation of intelligent systems by leveraging the power of information technology and machine learning techniques to build applications for learning enhancement. Machine learning, text classification, Java, Python, recommender systems algorithms and many more were used to achieve this goal. Specifically, I prototyped a Learning Material Recommender System to help increase the performance of college students by intelligently recommending most appropriate and personalized educational material to a target user based on his/her learning needs, interests and current standing. As part of this project, I also developed a Learning Material Classification system that can autonomously label different learning stuff into desired learning objectives to reliably build and extend the repository.
+
+I like to be part of a fast-paced work environment that, although structurally well-established, challenge and innovation are parts of its daily routine. I am self-motivated, quick learner, capable of working both independently and in a team with minimal supervision, dedicated to my profession with goal-oriented vision, and hardworking and able to organize and manage multiple priorities. Given my academic background, professional experiences, and technical skills, I believe that I can bring value to the organization and add to its legacy as well.
+
+It is worth mentioning that my OPT-EAD status has started on June 2017 and will stay valid for 3 years afterwards (one year initially plus a two-year STEM extension). Beyond that period, I will need sponsorship to continue.
+
+Thank you for your time and consideration. I hope to have the opportunity to discuss the opening with you in person.
+
+Sincerely,
+
+Farzan Soufizadeh Balaneji
