@@ -5,25 +5,25 @@ How many years of JavaScript experience do you have?
 3+
 
 How many years of Ruby and/or Rails experience do you have?
-No professional experience (only general intro to syntax)
+No professional experience (only general intro to syntax). Since I am familiar with other similar programming languages and designs, learning a new language (syntax) will not be hard.
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-Java: 4+
+Java: 4+ 
 C#: 2+
 PHP: 1+
 Python: 1+
 
 What are your opinions on Agile software development?
-
+If we do not fall into the fallacy of applying Agile to each and every project and understand its benefits and limitations as well, then for the right project, agile methodology can help build working versions of a software that is more close to the requirements of the project through close collaboration of different stakeholders and less double work and customer dissatisfaction. 
 
 TDD or BDD?
-
+TDD often allows good designs with focus on implementation details, while BDD focuses on behavioral aspects of the system. Since TDD does not necessarily result in a system that closely matches with the client perspectives, BDD can also be used in combiantion with TDD to ensure the required level of consistency between design and functinal requirements.
 
 What are you looking for in a job?
 - Product/Scope/Impact
 - Growth Potentials
 - Lots of challenges
-- A serious but friendly work culture
+- A serious (when necessary) but friendly work culture 
 
 When can you start?
 Immediately after offer
