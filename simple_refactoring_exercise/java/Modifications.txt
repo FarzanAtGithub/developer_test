@@ -1,6 +1,11 @@
-ReadTemplate() method
+----------ReadTemplate() method---------
 1) br.close() deleted from try body and and finally block modified to just try closing the BufferedReader if it is not null.
 2) Empty catch block in the finally block was removed/transfered to the mothed
-3) The templateName variable is passed as an parameter to the ReadTemplate() method.
-4) An instance vaiable named "template" is declared for the class and initialized either by default consturctor or custom one.
+3) An instance variable named "templateFile" is declared for the class and initialized either by default consturctor.
+4) Default constructor instanciates the FileReader object out of templateFile, thus this new reader object can be directly injected into readTemplate() method.
+
 5) 
+
+
+----------substitute() method------------
+1) Since we have assumed (based on the strcuture of the code) that each object of the class will be associated with a particular template file, we can, instead of reading the template once per each call to the substitue method, read it exactly once in constuctor.
