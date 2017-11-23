@@ -1,0 +1,6 @@
+ReadTemplate() method
+1) br.close() deleted from try body and and finally block modified to just try closing the BufferedReader if it is not null.
+2) Empty catch block in the finally block was removed/transfered to the mothed
+3) The templateName variable is passed as an parameter to the ReadTemplate() method.
+4) An instance vaiable named "template" is declared for the class and initialized either by default consturctor or custom one.
+5) 
