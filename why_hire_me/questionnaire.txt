@@ -1,14 +1,17 @@
 How many years of development experience do you have?
-
+3+
 
 How many years of JavaScript experience do you have?
-
+3+
 
 How many years of Ruby and/or Rails experience do you have?
-
+No professional experience (only general intro to syntax)
 
 How many years of other high level language(s) if not Ruby or JavaScript do you have?
-
+Java: 4+
+C#: 2+
+PHP: 1+
+Python: 1+
 
 What are your opinions on Agile software development?
 
@@ -20,3 +23,4 @@ What are you looking for in a job?
 
 
 When can you start?
+Immediately after offer
