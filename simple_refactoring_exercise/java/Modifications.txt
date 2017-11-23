@@ -3,9 +3,13 @@
 2) Empty catch block in the finally block was removed/transfered to the mothed
 3) An instance variable named "templateFile" is declared for the class and initialized either by default consturctor.
 4) Default constructor instanciates the FileReader object out of templateFile, thus this new reader object can be directly injected into readTemplate() method.
-
-5) 
+5) "Exception" modified to "IOException" to more precisely reflect the caught exception.
 
 
 ----------substitute() method------------
 1) Since we have assumed (based on the strcuture of the code) that each object of the class will be associated with a particular template file, we can, instead of reading the template once per each call to the substitue method, read it exactly once in constuctor.
+2) Redndant "template" variable deleted.
+3) Since close() will call the flush() internally, so reduntant flush() can be also deleted.
+
+----------substituteForCode() method-----
+1) StringBuffer used instead of direct string concat.
