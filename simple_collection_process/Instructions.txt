@@ -1,7 +1,8 @@
 General Notes:
-1) The code has been written in Java (IFP.java)
+1) The code has been written in Java 7 (IFP.java)
 2) To parse the HTML, Jsoup library has been used
 3) To add the Jsoup library to the project, either download the .jar file (available in Jsoup folder) and or use POM.xml for maven dependency
 management. Both files have been copied the Jsoup directory and also available from https://jsoup.org/download
+4) Eclipse, NetBeans or ather IDEs or command prompt can be used to run the code (provided that Java already installed class path configured properly).
 
 
