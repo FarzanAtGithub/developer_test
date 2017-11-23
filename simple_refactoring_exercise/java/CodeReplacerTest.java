@@ -20,11 +20,8 @@ public class CodeReplacerTest extends TestCase {
 	StringWriter stringOut = new StringWriter();
 	PrintWriter testOut = new PrintWriter (stringOut);
 	String trackingId = "01234567";
-	try {
 	    replacer.substitute(trackingId, testOut);
-	} catch (IOException ex) {
-	    fail ("testSubstitution exception - " + ex);
-	}
+
 	assertEquals("xxx01234567yyy01234-567zzz\n",
 		     stringOut.toString());
     }
